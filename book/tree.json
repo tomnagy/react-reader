@@ -1,0 +1,262 @@
+[
+  {
+    "title": "EGWWritings",
+    "key": "f_1001",
+    "isFolder": true,
+    "isLazy": true,
+    "addClass": "egwwritings",
+    "urltype": "folder",
+    "url": 1001,
+    "path": "947_1001",
+    "caption": "EGWWritings",
+    "getTranslated": "1",
+    "children": [
+      {
+        "title":
+          "GC - \u0627\u0644\u0635\u0631\u0627\u0639 \u0627\u0644\u0639\u0638\u064a\u0645",
+        "key": "p_19947",
+        "isLazy": true,
+        "addClass": "pub",
+        "urltype": "id_pub",
+        "url": 19947,
+        "pubnr": 11266,
+        "pubtype": "Book"
+      },
+      {
+        "title":
+          "SC - \u0637\u0631\u064a\u0642 \u0627\u0644\u062d\u064a\u0627\u0629",
+        "key": "p_20061",
+        "isLazy": true,
+        "addClass": "pub",
+        "urltype": "id_pub",
+        "url": 20061,
+        "pubnr": 11711,
+        "pubtype": "Book",
+        "children": [
+          {
+            "title": "\u0627\u0644\u0645\u0642\u062f\u0645\u0629",
+            "key": "h_1012948648",
+            "isLazy": false,
+            "addClass": "header",
+            "urltype": "id_elementauto",
+            "url": 1012948648
+          },
+          {
+            "title": " \u0627\u0644\u0641\u0647\u0631\u0633",
+            "key": "h_1012948653",
+            "isLazy": false,
+            "addClass": "header",
+            "urltype": "id_elementauto",
+            "url": 1012948653,
+            "tocview": true
+          },
+          {
+            "title": "\u0645\u062d\u0628\u0651\u0629 \u0627\u0644\u0644\u0647 ",
+            "key": "h_1012948656",
+            "isLazy": false,
+            "addClass": "header",
+            "urltype": "id_elementauto",
+            "url": 1012948656
+          },
+          {
+            "title":
+              "\u0627\u0644\u062d\u0627\u062c\u0629 \u0625\u0644\u0649 \u0627\u0644\u0645\u0633\u064a\u062d ",
+            "key": "h_1012948696",
+            "isLazy": false,
+            "addClass": "header",
+            "urltype": "id_elementauto",
+            "url": 1012948696
+          },
+          {
+            "title": "\u0627\u0644\u062a\u0648\u0628\u0629",
+            "key": "h_1012948723",
+            "isLazy": false,
+            "addClass": "header",
+            "urltype": "id_elementauto",
+            "url": 1012948723
+          },
+          {
+            "title": "\u0627\u0644\u0627\u0639\u062a\u0631\u0627\u0641",
+            "key": "h_1012948783",
+            "isLazy": false,
+            "addClass": "header",
+            "urltype": "id_elementauto",
+            "url": 1012948783
+          },
+          {
+            "title": "\u0627\u0644\u062a\u0633\u0644\u064a\u0645",
+            "key": "h_1012948805",
+            "isLazy": false,
+            "addClass": "header",
+            "urltype": "id_elementauto",
+            "url": 1012948805
+          },
+          {
+            "title": "\u0627\u0644\u0625\u064a\u0645\u0627\u0646",
+            "key": "h_1012948826",
+            "isLazy": false,
+            "addClass": "header",
+            "urltype": "id_elementauto",
+            "url": 1012948826
+          },
+          {
+            "title": "\u0627\u0644\u0637\u0627\u0639\u0629",
+            "key": "h_1012948856",
+            "isLazy": false,
+            "addClass": "header",
+            "urltype": "id_elementauto",
+            "url": 1012948856
+          },
+          {
+            "title": "\u0627\u0644\u0646\u0645\u0648",
+            "key": "h_1012948892",
+            "isLazy": false,
+            "addClass": "header",
+            "urltype": "id_elementauto",
+            "url": 1012948892
+          },
+          {
+            "title": "\u0627\u0644\u0639\u064e\u0645\u0644",
+            "key": "h_1012948927",
+            "isLazy": false,
+            "addClass": "header",
+            "urltype": "id_elementauto",
+            "url": 1012948927
+          },
+          {
+            "title":
+              "\u0627\u0644\u062a\u0639\u0631\u0651\u064f\u0641 \u0628\u0627\u0644\u0644\u0647",
+            "key": "h_1012948959",
+            "isLazy": false,
+            "addClass": "header",
+            "urltype": "id_elementauto",
+            "url": 1012948959
+          },
+          {
+            "title": "\u0627\u0644\u0635\u0651\u0644\u0627\u0629",
+            "key": "h_1012948995",
+            "isLazy": false,
+            "addClass": "header",
+            "urltype": "id_elementauto",
+            "url": 1012948995
+          },
+          {
+            "title": "\u0627\u0644\u0634\u0643",
+            "key": "h_1012949043",
+            "isLazy": false,
+            "addClass": "header",
+            "urltype": "id_elementauto",
+            "url": 1012949043
+          },
+          {
+            "title": "\u0627\u0644\u0641\u0631\u062d",
+            "key": "h_1012949074",
+            "isLazy": false,
+            "addClass": "header",
+            "urltype": "id_elementauto",
+            "url": 1012949074
+          }
+        ]
+      },
+      {
+        "title":
+          "ML - \u0645\u0634\u062a\u0647\u0649 \u0627\u0644\u0623\u062c\u064a\u0627\u0644",
+        "key": "p_21709",
+        "isLazy": true,
+        "addClass": "pub",
+        "urltype": "id_pub",
+        "url": 21709,
+        "pubnr": 12363,
+        "pubtype": "Book"
+      },
+      {
+        "title":
+          "SM - \u0627\u0644\u0635\u0628\u0627 \u0648 \u0627\u0644\u0634\u0628\u0627\u0628",
+        "key": "p_21736",
+        "isLazy": true,
+        "addClass": "pub",
+        "urltype": "id_pub",
+        "url": 21736,
+        "pubnr": 12373,
+        "pubtype": "Book"
+      },
+      {
+        "title":
+          "CCA - \u064a\u0646\u0635\u062d \u0644\u0644\u0643\u0646\u064a\u0633\u0629",
+        "key": "p_21807",
+        "isLazy": true,
+        "addClass": "pub",
+        "urltype": "id_pub",
+        "url": 21807,
+        "pubnr": 12406,
+        "pubtype": "Book"
+      },
+      {
+        "title":
+          "AM - \u0627\u0644\u0623\u0646\u0628\u064a\u0627\u0621 \u0648\u0627\u0644\u0645\u0644\u0648\u0643",
+        "key": "p_21818",
+        "isLazy": true,
+        "addClass": "pub",
+        "urltype": "id_pub",
+        "url": 21818,
+        "pubnr": 12411,
+        "pubtype": "Book"
+      },
+      {
+        "title":
+          "BHA - \u0627\u0644\u0645\u064e\u0628\u064e\u0627\u062f\u0626\u064f \u0627\u0644\u0623\u0633\u064e\u0627\u0633\u0650\u064a\u0651\u064e\u0629\u064f - \u0644\u0650\u0644\u0650\u0625\u0635\u0652\u0644\u0627\u064e\u062d\u0650 \u0627\u0644\u0635\u0651\u0650\u062d\u0651\u0650\u0649\u0651\u0650",
+        "key": "p_56451",
+        "isLazy": true,
+        "addClass": "pub",
+        "urltype": "id_pub",
+        "url": 56451,
+        "pubnr": 13914,
+        "pubtype": "Book"
+      },
+      {
+        "title":
+          "Tr - \u0627\u0644\u062a\u0631\u0628\u064a\u0640\u0640\u0640\u0629",
+        "key": "p_56402",
+        "isLazy": true,
+        "addClass": "pub",
+        "urltype": "id_pub",
+        "url": 56402,
+        "pubnr": 13934,
+        "pubtype": "Book"
+      },
+      {
+        "title":
+          "KS - \u062e\u062f\u0645\u0629 \u0627\u0644\u0634\u0641\u0627\u0621",
+        "key": "p_56445",
+        "isLazy": true,
+        "addClass": "pub",
+        "urltype": "id_pub",
+        "url": 56445,
+        "pubnr": 13938,
+        "pubtype": "Book"
+      },
+      {
+        "title":
+          "AA - \u0627\u0644\u0627\u0628\u0627\u0621 \u0648\u0627\u0644\u0627\u0646\u0628\u064a\u0627\u0621",
+        "key": "p_56530",
+        "isLazy": true,
+        "addClass": "pub",
+        "urltype": "id_pub",
+        "url": 56530,
+        "pubnr": 13966,
+        "pubtype": "Book"
+      },
+      {
+        "title":
+          "AR - \u0623\u0639\u0645\u0627\u0644\u0627\u0644\u0631\u0651\u064f\u0633\u0644",
+        "key": "p_56532",
+        "isLazy": true,
+        "addClass": "pub",
+        "urltype": "id_pub",
+        "url": 56532,
+        "pubnr": 13967,
+        "pubtype": "Book"
+      }
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+.App {
+  font-family: sans-serif;
+  direction: rtl;
+  unicode-bidi: embed;
+  text-align: right;
+  text-indent: 20px;
+}
